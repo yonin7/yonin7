@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yehonatan Nissan</h1>
+<h1 align="center">Hi 👋, I'm Yehonatan Nisan</h1>
 <h3 align="center">A passionate Full-Stack developer from Israel</h3>
 
 - 🔭 I’m currently working on [Fast Food Fullstack Project](https://github.com/yonin7?tab=repositories)
